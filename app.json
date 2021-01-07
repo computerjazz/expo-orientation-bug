@@ -1,0 +1,12 @@
+{
+  "name": "orientation-bug-ios",
+  "displayName": "orientation-bug-ios",
+  "expo": {
+    "name": "orientation-bug-ios",
+    "slug": "orientation-bug-ios",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
