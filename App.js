@@ -6,6 +6,7 @@ import * as ScreenOrientation from "expo-screen-orientation"
 export default function App() {
 
   useEffect(() => {
+    // After refreshing the app, it will no longer lock to portrait!
     ScreenOrientation.lockAsync(ScreenOrientation.OrientationLock.PORTRAIT_UP)
   }, [])
 
